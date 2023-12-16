@@ -1,0 +1,42 @@
+
+.burger{
+    margin: -60px;
+}
+
+.button{
+      padding: 30px;
+}
+
+#menucontent{
+    margin-top: -50px;
+    background: rgb(237, 209, 155);
+}
+
+
+
+
+
+
+button:hover{
+     color: rgb(255, 255, 255);
+     background-color: rgb(223, 39, 18);
+    
+    
+}
+
+button i:hover{
+    color: rgb(255, 255, 255);
+
+}
+
+.fa-regular:hover{
+    color: rgb(230, 43, 18);
+
+}
+
+#menucontent{
+    overflow-x: hidden;
+}
+
+
+
